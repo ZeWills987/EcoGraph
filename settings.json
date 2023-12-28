@@ -1,0 +1,14 @@
+{
+    "data_folder" : "../data",
+    "shift_folder" : "from_shift",
+    "countries_file" : "../data/worldCountries.geojson",
+    "shared_image_folder" : "../shared",
+    "using_mssql" : true,
+    "mssql_connect" : {
+        "server" : "info-mssql-etd",
+        "user" : "etd03",
+        "password" : "k44uYXy3",
+        "database" : "Equipe3"
+    },
+    "local_db_file" : "database.db"
+}
